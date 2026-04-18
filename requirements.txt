@@ -1,0 +1,8 @@
+transformers
+torch
+SpeechRecognition
+tensorflow
+tensorflow-hub
+opencv-python
+numpy
+pillow
