@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CODTECH%20AI%20Internship&fontSize=50&fontAlignY=35&desc=Artificial%20Intelligence%20Implementations&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=CODTECH%20AI%20Internship&fontSize=60&fontAlignY=35&desc=Artificial%20Intelligence%20Implementations&descAlignY=55" />
+  
+  <br/><br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F72DD2&center=true&vCenter=true&width=600&lines=Natural+Language+Processing;Speech+Recognition;Computer+Vision;Large+Language+Models+(GPT-2)" alt="Typing SVG" />
+  </a>
+  
+  <br/>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -7,25 +15,23 @@
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   </p>
-  
-  <h3>An immersive suite of advanced Artificial Intelligence models encompassing Natural Language Processing, Computer Vision, and Speech Recognition.</h3>
 </div>
 
 <br/>
 
-## 🎯 About The Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" height="30" /> About The Project
 
-This repository serves as a showcase of modern Python-based AI implementations. The architecture is cleanly divided into 4 independent modules that solve sophisticated real-world technical problems using state-of-the-art libraries.
+This repository serves as a spectacular showcase of modern Python-based AI implementations. The architecture is cleanly divided into **4 independent modules** that solve sophisticated real-world technical problems using state-of-the-art libraries.
 
----
+<img src="https://raw.githubusercontent.com/aaronward/aaronward/master/assets/images/rainbow-divider.gif" width="100%"/>
 
-## 🛠️ Module Breakdowns & Outputs
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Module Breakdowns & Outputs
 
-### 📝 Task 1: Text Summarization Tool
-Designed a performant tool that leverages **Hugging Face's `distilbart-cnn-12-6` transformers** architecture to dynamically summarize large blocks of raw text.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" height="35" /> Task 1: Text Summarization Tool
+Designed a performant tool that leverages **Hugging Face's `distilbart-cnn-12-6` transformers** architecture to dynamically summarize large blocks of raw text without losing critical context.
 
 <details open>
-<summary><b>🖼️ View Output Snapshot</b></summary>
+<summary><b>🔥 View Output Snapshot</b></summary>
 <br/>
 
 ```yaml
@@ -40,13 +46,13 @@ Artificial intelligence (AI) is intelligence demonstrated by machines, as oppose
 ```
 </details>
 
----
+<img src="https://raw.githubusercontent.com/aaronward/aaronward/master/assets/images/rainbow-divider.gif" width="100%"/>
 
-### 🎙️ Task 2: Speech Recognition Engine
-An automated audio-transcription script built with the **SpeechRecognition API**. It ingests standard `.wav` files and converts voice vectors into highly accurate string transcripts!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Microphone" width="35" height="35" /> Task 2: Speech Recognition Engine
+An automated audio-transcription script built with the **SpeechRecognition API**. It ingests standard `.wav` files and natively converts voice vectors into highly accurate string transcripts!
 
 <details open>
-<summary><b>🖼️ View Output Snapshot</b></summary>
+<summary><b>🔥 View Output Snapshot</b></summary>
 <br/>
 
 ```yaml
@@ -59,19 +65,19 @@ Recognizing speech...
 ```
 </details>
 
----
+<img src="https://raw.githubusercontent.com/aaronward/aaronward/master/assets/images/rainbow-divider.gif" width="100%"/>
 
-### 🎨 Task 3: Neural Style Transfer Interface
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="35" height="35" /> Task 3: Neural Style Transfer Interface
 A stunning display of Deep Learning and Computer Vision using **TensorFlow Hub's Magenta** models. It flawlessly transcribes the visual style of a famous painting onto a real-world photograph using spatial transformations.
 
 <details open>
-<summary><b>🖼️ View Output Snapshot</b></summary>
+<summary><b>🔥 View Output Snapshot</b></summary>
 <br/>
 
 | Base Photograph (`content.jpg`) | Artistic Style (`style.jpg`) | Output Render (`stylized_output.jpg`) |
 | :---: | :---: | :---: |
-| <img src="content.jpg" width="250"/> | <img src="style.jpg" width="250"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Placeholder_image.svg/1200px-Placeholder_image.svg.png" width="250"/> |
-*(Note: A stylized output is generated upon execution of the script)*
+| <img src="content.jpg" width="220"/> | <img src="style.jpg" width="220"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Placeholder_image.svg/1200px-Placeholder_image.svg.png" width="220"/> |
+*(Note: A stylized output is generated dynamically upon execution)*
 
 <br/>
 
@@ -83,13 +89,13 @@ Stylized image successfully saved to stylized_output.jpg
 ```
 </details>
 
----
+<img src="https://raw.githubusercontent.com/aaronward/aaronward/master/assets/images/rainbow-divider.gif" width="100%"/>
 
-### 🤖 Task 4: GPT-2 Generative Text Model
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> Task 4: GPT-2 Generative Text Model
 Harnesses the massive generative power of **OpenAI's GPT-2 via HuggingFace**. Given a custom text prompt, the script maps the contextual embeddings and hallucinates realistic human-readable continuations.
 
 <details open>
-<summary><b>🖼️ View Output Snapshot</b></summary>
+<summary><b>🔥 View Output Snapshot</b></summary>
 <br/>
 
 ```yaml
@@ -102,9 +108,9 @@ The future of artificial intelligence in healthcare is bright. Rapid innovations
 ```
 </details>
 
----
+<img src="https://raw.githubusercontent.com/aaronward/aaronward/master/assets/images/rainbow-divider.gif" width="100%"/>
 
-## 💻 Quick Start Guide
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Quick Start Guide
 
 **1. Clone the environment:**
 ```bash
@@ -124,5 +130,5 @@ python task1_text_summarization.py
 
 <br/>
 <div align="center">
-  <b>✨ Coded & Configured for CODTECH ✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
